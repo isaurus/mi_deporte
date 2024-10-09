@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MiDeporte</string>
+    <string name="lbl_tipo">Tipo:</string>
+    <string name="rbt_individual">Individual</string>
+    <string name="rbt_en_pareja">En pareja</string>
+    <string name="rbt_grupal">Grupal</string>
+    <string name="lbl_deporte">Deporte:</string>
+    <string-array name="spn_deporte_individual">
+        <item>Salto de altura</item>
+        <item>Atletismo</item>
+        <item>Gimnasia</item>
+    </string-array>
+    <string-array name="spn_deporte_pareja">
+        <item>Pádel</item>
+        <item>Tenis</item>
+        <item>Squash</item>
+    </string-array>
+    <string-array name="spn_deporte_grupal">
+        <item>Fútbol</item>
+        <item>Rugby</item>
+        <item>Balonmano</item>
+    </string-array>
+</resources>
